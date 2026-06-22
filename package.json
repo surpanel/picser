@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "build": "npx @cloudflare/next-on-pages",
+    "build": "npx @cloudflare/next-on-pages",
     "start": "next start",
     "lint": "next lint",
     "deploy": "npx wrangler pages deploy --project-name=picser --commit-dirty=true"
